@@ -1,4 +1,4 @@
-package proje;
+package gitpaketi;
 
 public class Class1 {
 
