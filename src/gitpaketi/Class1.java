@@ -9,8 +9,7 @@ public class Class1 {
 		System.out.println("3.msg 07/03/21 ");
 		System.out.println("1.commit from your remote master branch");
 		System.out.println("2.commit from your remote master branch");
-		//updated page design
-		//your update is done
+	
 		
 	}
 
