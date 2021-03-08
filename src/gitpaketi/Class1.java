@@ -9,7 +9,7 @@ public class Class1 {
 		System.out.println("3.msg 07/03/21 ");
 		System.out.println("1.commit from your remote master branch");
 		System.out.println("2.commit from your remote master branch");
-	
+	        System.out.println("here is the conflict we have from remote master branch");
 		
 	}
 
