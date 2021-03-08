@@ -13,7 +13,7 @@ public class Class1 {
 		System.out.println("here is a merge conflict i create from local master");
 
 	    System.out.println("here is the conflict we have from remote master branch");
-		
+	    System.out.println("here is another conflict we have from local master branch");
 	}
 
 }
